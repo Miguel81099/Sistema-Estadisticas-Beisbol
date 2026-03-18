@@ -15,3 +15,6 @@ Se actualizaron los diagramas E-R y UML aplicando las reglas de normalización p
 ### Diagramas del Sistema
 * [Ver Diagrama Entidad-Relación (DER)](DER-EstadisticasDeBateador.pdf)
 * [Ver Diagrama de Clases UML](UML.pdf.pdf)
+
+## Diccionario de Datos
+* [Ver diccionario de datos (PDF)](DiccionarioDatos.pdf)
