@@ -13,5 +13,5 @@ Se actualizaron los diagramas E-R y UML aplicando las reglas de normalización p
 3. **Tercera Forma Normal (3FN):** Se eliminaron dependencias transitivas. En la tabla `Equipo`, los datos como `Ciudad` y `Liga` dependen únicamente de la llave primaria `id_equipo`, evitando redundancias.
 
 ### Diagramas del Sistema
-* [Ver Diagrama Entidad-Relación (DER)](DER-EstadisticasDeBateador)
+* [Ver Diagrama Entidad-Relación (DER)](DER-EstadisticasDeBateador.pdf)
 * [Ver Diagrama de Clases UML](UML.pdf.pdf)
